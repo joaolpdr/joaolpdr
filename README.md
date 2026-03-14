@@ -8,65 +8,50 @@ Information Systems student building modern web experiences.
 Focused on Web Development • UI Design • Backend • Data
 </p>
 
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=joaolpdr&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
+
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
 - 🎓 Information Systems student  
 - 🌐 Passionate about building things for the web  
-- 🎨 Interested in UI Design and user experience  
-- ⚙️ Exploring Backend and APIs  
----
-
-## 🛠 Tech Stack
-
-### Frontend
-![HTML](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
-
-### Tools
-![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
-![Figma](https://img.shields.io/badge/Figma-purple?style=for-the-badge&logo=figma)
-
-### Backend / Data (learning)
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
-![SQL](https://img.shields.io/badge/SQL-lightgrey?style=for-the-badge)
+- 🎨 Interested in UI Design and digital products  
+- ⚙️ Exploring backend development and APIs  
+- 💼 Currently building projects to create a strong freelance portfolio  
 
 ---
 
-## 📚 Currently Studying
+# 🚀 Areas I'm Developing
 
-- Web Development
-- UI Design
-- Backend Development
-- Data
-- IA integration
+<p>
 
----
-
-## 🚀 Areas I'm Developing
-
-Technologies and tools I enjoy working with and continue improving:
-
-- 🎨 **Figma** — UI/UX design and interface prototyping  
-- 🌐 **HTML & CSS** — building modern and responsive websites  
-- 🧠 **Python** — automation, data handling and backend fundamentals  
-- ⚡ **PowerApps** — creating business applications and workflows  
-- 🤖 **AI Integrations** — connecting applications with AI tools and APIs
+<img src="https://img.shields.io/badge/Figma-UI%2FUX-purple?style=for-the-badge&logo=figma">
+<img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5">
+<img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3">
+<img src="https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python">
+<img src="https://img.shields.io/badge/PowerApps-742774?style=for-the-badge&logo=powerapps">
+<img src="https://img.shields.io/badge/AI%20Integration-black?style=for-the-badge">
 
 </p>
 
-## 💡 What I Like to Build
+Technologies and tools I enjoy working with and continue improving.
 
-- Modern responsive websites
-- UI prototypes and design systems
-- Business apps with PowerApps
-- Automations with Python
-- AI-powered integrations
 ---
 
-## 📈 GitHub Stats
+# 💡 What I Like to Build
+
+- Modern responsive websites  
+- UI prototypes and design systems  
+- Business applications with PowerApps  
+- Automations using Python  
+- AI-powered integrations  
+
+---
+
+# 📈 GitHub Stats
 
 <p align="center">
 
@@ -78,7 +63,7 @@ Technologies and tools I enjoy working with and continue improving:
 
 ---
 
-## 🔥 GitHub Streak
+# 🔥 GitHub Streak
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=SEUUSERNAME&theme=tokyonight"/>
@@ -86,15 +71,32 @@ Technologies and tools I enjoy working with and continue improving:
 
 ---
 
-## 🌎 Connect With Me
+# 🛠 Tech Stack
+
+### Frontend
+![HTML](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+
+### Tools
+![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
+![Figma](https://img.shields.io/badge/Figma-purple?style=for-the-badge&logo=figma)
+
+### Backend / Data
+![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python)
+![SQL](https://img.shields.io/badge/SQL-lightgrey?style=for-the-badge)
+
+---
+
+# 🌎 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/joaolprd/)
 
 ---
 
-## 🎯 Goal
+# 🎯 Goal
 
-Build real-world projects and work on freelance web development projects.
+Build real-world projects and work with freelance web development.
 
 ---
 
