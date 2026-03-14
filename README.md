@@ -1,16 +1,96 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm João Lucas</h1>
 
-<!--
-**joaolpdr/joaolpdr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+Information Systems student building modern web experiences.
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+Focused on Web Development • UI Design • Backend • Data
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+- 🎓 Information Systems student  
+- 🌐 Passionate about building things for the web  
+- 🎨 Interested in UI Design and user experience  
+- ⚙️ Exploring Backend and APIs  
+- 💼 Currently building projects for my freelance portfolio  
+
+---
+
+## 🛠 Tech Stack
+
+### Frontend
+![HTML](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+
+### Tools
+![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
+![Figma](https://img.shields.io/badge/Figma-purple?style=for-the-badge&logo=figma)
+
+### Backend / Data (learning)
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
+![SQL](https://img.shields.io/badge/SQL-lightgrey?style=for-the-badge)
+
+---
+
+## 📚 Currently Studying
+
+- Web Development
+- UI Design
+- Backend Development
+- Data
+- IA integration
+
+---
+
+## 🚀 Areas I'm Developing
+
+<p>
+
+<img src="https://img.shields.io/badge/Figma-UI%2FUX-purple?style=for-the-badge&logo=figma">
+<img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5">
+<img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3">
+<img src="https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python">
+<img src="https://img.shields.io/badge/PowerApps-742774?style=for-the-badge&logo=powerapps">
+<img src="https://img.shields.io/badge/AI%20Integration-black?style=for-the-badge">
+
+</p>
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEUUSERNAME&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSERNAME&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=SEUUSERNAME&theme=tokyonight"/>
+</p>
+
+---
+
+## 🌎 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/joaolprd/)
+
+---
+
+## 🎯 Goal
+
+Build real-world projects and work on freelance web development projects.
+
+---
+
+⭐ Always learning and building.
