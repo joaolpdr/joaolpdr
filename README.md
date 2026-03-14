@@ -47,14 +47,13 @@ Focused on Web Development • UI Design • Backend • Data
 
 ## 🚀 Areas I'm Developing
 
-<p>
+Technologies and tools I enjoy working with and continue improving:
 
-<img src="https://img.shields.io/badge/Figma-UI%2FUX-purple?style=for-the-badge&logo=figma">
-<img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5">
-<img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3">
-<img src="https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python">
-<img src="https://img.shields.io/badge/PowerApps-742774?style=for-the-badge&logo=powerapps">
-<img src="https://img.shields.io/badge/AI%20Integration-black?style=for-the-badge">
+- 🎨 **Figma** — UI/UX design and interface prototyping  
+- 🌐 **HTML & CSS** — building modern and responsive websites  
+- 🧠 **Python** — automation, data handling and backend fundamentals  
+- ⚡ **PowerApps** — creating business applications and workflows  
+- 🤖 **AI Integrations** — connecting applications with AI tools and APIs
 
 </p>
 ---
