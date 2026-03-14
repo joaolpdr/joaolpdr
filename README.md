@@ -56,6 +56,14 @@ Technologies and tools I enjoy working with and continue improving:
 - 🤖 **AI Integrations** — connecting applications with AI tools and APIs
 
 </p>
+
+## 💡 What I Like to Build
+
+- Modern responsive websites
+- UI prototypes and design systems
+- Business apps with PowerApps
+- Automations with Python
+- AI-powered integrations
 ---
 
 ## 📈 GitHub Stats
