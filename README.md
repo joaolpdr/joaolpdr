@@ -16,8 +16,6 @@ Focused on Web Development • UI Design • Backend • Data
 - 🌐 Passionate about building things for the web  
 - 🎨 Interested in UI Design and user experience  
 - ⚙️ Exploring Backend and APIs  
-- 💼 Currently building projects for my freelance portfolio  
-
 ---
 
 ## 🛠 Tech Stack
