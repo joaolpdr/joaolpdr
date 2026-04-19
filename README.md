@@ -26,6 +26,8 @@
 | Projeto | Descrição | Tecnologias |
 |---|---|---|
 | [📊 Análise de Inadimplência](https://github.com/joaolpdr/analise-inadimplencia) | Análise de carteira de crédito com geração automática de relatório Excel | Python, pandas, openpyxl |
+| [📈 Automatizador de Relatórios de Vendas](https://github.com/joaolpdr/automatizador-relatorio-vendas) | Pipeline que transforma base bruta de vendas em relatório Excel automatizado | Python, pandas, openpyxl |
+| [🏦 Painel Financeiro BCB](https://github.com/joaolpdr/painel-financeiro-bcb) | Consome APIs reais do Banco Central e gera relatório Excel automatizado | Python, requests, pandas, openpyxl |
 
 ---
 
